@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**milioe/milioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emilio, an AI Developer passionate about the intersection of art and artificial intelligence. I love exploring how these two worlds can come together to create innovative solutions and products. I have a keen interest in product design and enjoy diving into the creative process of bringing ideas to life.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a project called **Kaset**.
+- 🌱 I’m passionate about entrepreneurship and always exploring new products!
+- 👯 I’m looking to collaborate on projects that involve AI, design, and product development.
+- 💬 Ask me about AI, design, finance, or how to mix creativity with technology!
+- 📫 How to reach me: [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of pugs 🐾
+- 🎵 You’ve got to listen to this: [My Spotify Playlist](https://open.spotify.com/playlist/0MPkDlOvFicWBYPJz24B2M?si=274fc96669b24afe)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect if you share similar interests or just want to chat about AI, design, or entrepreneurship!
