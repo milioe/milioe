@@ -6,7 +6,7 @@ I'm Emilio, an AI Architect passionate about the intersection of art and artific
 - 🌱 I’m passionate about entrepreneurship and always exploring new products!
 - 👯 I’m looking to collaborate on projects that involve AI, design, and product development.
 - 💬 Ask me about AI, design, finance, or how to mix creativity with technology!
-- 📫 How to reach me: [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
+- 📫 How to reach me: [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com) || [emilio@milioe.com](mailto:emilio@milioe.com)
 - ⚡ Fun fact: I'm a huge fan of pugs 🐾
 - 🎵 You’ve got to listen to this: [My Spotify Playlist](https://open.spotify.com/playlist/0MPkDlOvFicWBYPJz24B2M?si=274fc96669b24afe)
 
