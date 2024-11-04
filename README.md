@@ -2,7 +2,7 @@
 
 I'm Emilio, an AI Architect passionate about the intersection of art and artificial intelligence. I love exploring how these two worlds can come together to create innovative solutions and products. I have a keen interest in product design and enjoy diving into the creative process of bringing ideas to life.
 
-- 🔭 I’m currently working on a project called **Kaset**.
+- 🔭 I’m currently working on a project called [**Kaset**](https://kaset.app).
 - 🌱 I’m passionate about entrepreneurship and always exploring new products!
 - 👯 I’m looking to collaborate on projects that involve AI, design, and product development.
 - 💬 Ask me about AI, design, finance, or how to mix creativity with technology!
