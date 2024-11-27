@@ -9,6 +9,6 @@ I'm Emilio, an AI Architect passionate about the intersection of art and artific
 - 📫 How to reach me: [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com) || [emilio@milioe.com](mailto:emilio@milioe.com)
 - ⚡ Fun fact: I'm a huge fan of pugs 🐾
 - 🎵 You’ve got to listen to this: [My Spotify Playlist](https://open.spotify.com/playlist/0MPkDlOvFicWBYPJz24B2M?si=274fc96669b24afe)
-- I'm obsessed with this [song](https://youtu.be/JQ2fd2oSFJM?si=kd33VoJkC2fauLYS)
+- 😦 I'm obsessed with this [song](https://youtu.be/JQ2fd2oSFJM?si=kd33VoJkC2fauLYS)
 
 Feel free to connect if you share similar interests or just want to chat about AI, design, or entrepreneurship!
