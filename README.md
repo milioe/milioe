@@ -10,6 +10,6 @@ I'm Emilio, an Account Executive specializing in AI. I love exploring how these 
 - ⚡ Fun fact: I'm a huge fan of pugs 🐾
 - 🎵 You’ve got to listen to this: [My Spotify Playlist](https://open.spotify.com/playlist/0MPkDlOvFicWBYPJz24B2M?si=274fc96669b24afe)
 - 😦 I'm obsessed with this [song](https://youtu.be/JQ2fd2oSFJM?si=kd33VoJkC2fauLYS)
-- 🙂‍↔️ You can listen to my [voice notes](https://open.spotify.com/show/2ofUAtnYQ47Fja3gqQyoVQ?si=-VMt7jOZRomTLPurn9nzHg)
+- 🥺 You can listen to my [voice notes](https://open.spotify.com/show/2ofUAtnYQ47Fja3gqQyoVQ?si=-VMt7jOZRomTLPurn9nzHg)
 
 Feel free to connect if you share similar interests or just want to chat about AI, design, or entrepreneurship!
